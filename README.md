@@ -1,2 +1,2 @@
 # asmgui
-X11 GUI thing made in x64 assembly
+X11 GUI thing made in x86_64 assembly
